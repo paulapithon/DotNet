@@ -1,0 +1,14 @@
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/bin/Debug/netcoreapp2.2/DoggyDatingApp.API.deps.json
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/bin/Debug/netcoreapp2.2/DoggyDatingApp.API.runtimeconfig.json
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/bin/Debug/netcoreapp2.2/DoggyDatingApp.API.runtimeconfig.dev.json
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/bin/Debug/netcoreapp2.2/DoggyDatingApp.API.dll
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/bin/Debug/netcoreapp2.2/DoggyDatingApp.API.pdb
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.csprojAssemblyReference.cache
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.csproj.CoreCompileInputs.cache
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.RazorAssemblyInfo.cache
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.RazorAssemblyInfo.cs
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.AssemblyInfoInputs.cache
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.AssemblyInfo.cs
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.dll
+/Users/paula/Git/Personal/DotNet/DoggyDatingApp.API/obj/Debug/netcoreapp2.2/DoggyDatingApp.API.pdb
