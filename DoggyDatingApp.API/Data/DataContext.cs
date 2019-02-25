@@ -9,5 +9,7 @@ namespace DoggyDatingApp.API.Data
 
         //Pluralize the name of the entity
         public DbSet<Value> Values { get; set; }
+
+        public DbSet<User> Users { get; set; }
     }
 }
